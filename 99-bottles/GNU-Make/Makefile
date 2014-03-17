@@ -2,7 +2,7 @@
 # 99 Bottles of Beer in GNU Make Script
 # by John Munkhoff
 #
-# https://github.com/munkhoff/random-code/99-bottles/GNU-Make
+# https://github.com/munkhoff/random-code/tree/master/99-bottles/GNU-Make
 #
 # This Makefile prints out the lyrics of the song "99 Bottles of Beer"
 # using the script facilities of the GNU "make" utility.
